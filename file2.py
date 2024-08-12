@@ -113,6 +113,3 @@ print(FileasList[1])
 print(FileasList[2])
 
 
-print("//////")
-
-
